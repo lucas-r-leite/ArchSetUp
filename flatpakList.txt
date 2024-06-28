@@ -1,0 +1,8 @@
+com.discordapp.Discord
+com.github.d4nj1.tlpui
+com.stremio.Stremio
+com.github.unrud.VideoDownloader
+org.gimp.GIMP
+org.libreoffice.LibreOffice
+org.telegram.desktop
+org.upscayl.Upscayl
