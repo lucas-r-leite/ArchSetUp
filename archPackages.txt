@@ -4,6 +4,8 @@ neovim
 tmux
 alacritty
 reaper
+reapack
+sws
 inkscape
 chromium
 calibre
