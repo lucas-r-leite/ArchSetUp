@@ -1,4 +1,3 @@
-com.discordapp.Discord
 com.github.d4nj1.tlpui
 com.stremio.Stremio
 com.github.unrud.VideoDownloader
