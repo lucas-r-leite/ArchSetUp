@@ -5,4 +5,4 @@ org.gimp.GIMP
 org.libreoffice.LibreOffice
 org.telegram.desktop
 org.upscayl.Upscayl
-org.mozilla.firefox
+org.localsend.localsend_app
